@@ -197,6 +197,32 @@
 | 31 | [下一个排列](https://leetcode.cn/problems/next-permutation/) | 🟡 Medium | ⬜ | - |
 | 287 | [寻找重复数](https://leetcode.cn/problems/find-the-duplicate-number/) | 🟡 Medium | ⬜ | - |
 
+## 📅 更新日志
+
+- **2026-01-28**: 新增 22 题
+  - 🟢 #1 [两数之和](https://leetcode.cn/problems/two-sum/) (Easy)
+  - 🟡 #2 [两数相加](https://leetcode.cn/problems/add-two-numbers/) (Medium)
+  - 🟡 #3 [无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) (Medium)
+  - 🔴 #4 [寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/) (Hard)
+  - 🟡 #19 [删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) (Medium)
+  - 🟢 #21 [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) (Easy)
+  - 🟡 #24 [两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/) (Medium)
+  - 🟢 #35 [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) (Easy)
+  - 🟢 #94 [二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/) (Easy)
+  - 🟢 #101 [对称二叉树](https://leetcode.cn/problems/symmetric-tree/) (Easy)
+  - 🟡 #102 [二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) (Medium)
+  - 🟢 #104 [二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) (Easy)
+  - 🟢 #108 [将有序数组转换为二叉搜索树](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/) (Easy)
+  - 🟢 #136 [只出现一次的数字](https://leetcode.cn/problems/single-number/) (Easy)
+  - 🟢 #141 [环形链表](https://leetcode.cn/problems/linked-list-cycle/) (Easy)
+  - 🟡 #142 [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) (Medium)
+  - 🟢 #160 [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) (Easy)
+  - 🟢 #206 [反转链表](https://leetcode.cn/problems/reverse-linked-list/) (Easy)
+  - 🟢 #226 [翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) (Easy)
+  - 🟢 #234 [回文链表](https://leetcode.cn/problems/palindrome-linked-list/) (Easy)
+  - 🟢 #283 [移动零](https://leetcode.cn/problems/move-zeroes/) (Easy)
+  - 🟢 #543 [二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/) (Easy)
+
 ## 🚀 待办清单 (未完成)
 
 | # | 题目 | 难度 | 专题 |
