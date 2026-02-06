@@ -1,33 +1,23 @@
 @echo off
-echo ==========================================
-echo      LeetCode Notes Sync Tool
-echo ==========================================
+chcp 65001 > nul
 cd /d "%~dp0"
 
-echo [1/5] Updating README stats...
-powershell -ExecutionPolicy Bypass -File "update_readme.ps1"
-
-echo [2/5] Adding changes...
-git add .
-
-echo [3/5] Committing...
-set "timestamp=%date% %time%"
-git commit -m "Update notes: %timestamp%"
-
-echo [4/5] Pulling updates (rebase)...
-git pull origin main --rebase
-
-echo [5/5] Pushing to GitHub...
-git push origin main
-
+echo [1/4] Updating README.md...
+powershell -ExecutionPolicy Bypass -NoProfile -File ".\update_readme.ps1"
 echo.
-echo ==========================================
-echo      Sync Complete!
-echo ==========================================
-if "%1"=="auto" (
-    echo Auto-sync finished.
-    timeout /t 5
-    exit
-) else (
-    timeout /t 5
-)
+
+echo [2/4] Adding all changes to Git...
+git add .
+echo.
+
+echo [3/4] Committing changes...
+git commit -m "Automated Sync: Update notes and progress"
+echo.
+
+echo [4/4] Pushing to GitHub...
+git pull --rebase
+git push origin main
+echo.
+
+echo Sync complete!
+pause
