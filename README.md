@@ -2,12 +2,12 @@
 
 我的 LeetCode 刷题记录，当前专注于 **LeetCode Hot 100**。
 
-[![Progress](https://img.shields.io/badge/Progress-5%2F100-blue)]()
+[![Progress](https://img.shields.io/badge/Progress-6%2F100-blue)]()
 [![Language](https://img.shields.io/badge/Language-Java-orange)]()
 
 ## 📊 进度统计
 
-**Total Progress**: 5/100 (5%)
+**Total Progress**: 6/100 (6%)
 `█░░░░░░░░░░░░░░░░░░░`
 
 ## 📝 题目列表 (按专题)
@@ -63,13 +63,13 @@
 | 48 | [旋转图像](https://leetcode.cn/problems/rotate-image/) | 🟡 Medium | ⬜ |
 | 240 | [搜索二维矩阵 II](https://leetcode.cn/problems/search-a-2d-matrix-ii/) | 🟡 Medium | ⬜ |
 
-### 链表 (2/14)
+### 链表 (3/14)
 
 | # | 题目 | 难度 | 状态 |
 |---|------|------|------|
 | 160 | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | 🟢 Easy | ✅ |
 | 206 | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | 🟢 Easy | ⬜ |
-| 234 | [回文链表](https://leetcode.cn/problems/palindrome-linked-list/) | 🟢 Easy | ⬜ |
+| 234 | [回文链表](https://leetcode.cn/problems/palindrome-linked-list/) | 🟢 Easy | ✅ |
 | 141 | [环形链表](https://leetcode.cn/problems/linked-list-cycle/) | 🟢 Easy | ⬜ |
 | 142 | [环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/) | 🟡 Medium | ⬜ |
 | 21 | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | 🟢 Easy | ⬜ |
