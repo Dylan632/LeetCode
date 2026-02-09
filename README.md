@@ -2,12 +2,12 @@
 
 我的 LeetCode 刷题记录，当前专注于 **LeetCode Hot 100**。
 
-[![Progress](https://img.shields.io/badge/Progress-6%2F100-blue)]()
+[![Progress](https://img.shields.io/badge/Progress-7%2F100-blue)]()
 [![Language](https://img.shields.io/badge/Language-Java-orange)]()
 
 ## 📊 进度统计
 
-**Total Progress**: 6/100 (6%)
+**Total Progress**: 7/100 (7%)
 `█░░░░░░░░░░░░░░░░░░░`
 
 ## 📝 题目列表 (按专题)
@@ -63,12 +63,12 @@
 | 48 | [旋转图像](./48.旋转图像.md) | 🟡 Medium | ⬜ |
 | 240 | [搜索二维矩阵 II](./240.搜索二维矩阵II.md) | 🟡 Medium | ⬜ |
 
-### 链表 (3/14)
+### 链表 (4/14)
 
 | # | 题目 | 难度 | 状态 |
 |---|------|------|------|
 | 160 | [相交链表](./160.相交链表.md) | 🟢 Easy | ✅ |
-| 206 | [反转链表](./206.反转链表.md) | 🟢 Easy | ⬜ |
+| 206 | [反转链表](./206.反转链表.md) | 🟢 Easy | ✅ |
 | 234 | [回文链表](./234.回文链表.md) | 🟢 Easy | ✅ |
 | 141 | [环形链表](./141.环形链表.md) | 🟢 Easy | ⬜ |
 | 142 | [环形链表II](./142.环形链表II.md) | 🟡 Medium | ⬜ |
