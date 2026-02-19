@@ -12,7 +12,10 @@ import os
 import re
 import subprocess
 import sys
-import math
+
+# 修复 Windows 终端编码问题
+if sys.platform == "win32":
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 README_PATH = os.path.join(SCRIPT_DIR, "README.md")
