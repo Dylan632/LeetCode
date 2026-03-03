@@ -2,12 +2,12 @@
 
 我的 LeetCode 刷题记录，当前专注于 **LeetCode Hot 100**。
 
-[![Progress](https://img.shields.io/badge/Progress-33%2F100-blue)]()
+[![Progress](https://img.shields.io/badge/Progress-34%2F100-blue)]()
 [![Language](https://img.shields.io/badge/Language-Java-orange)]()
 
 ## 📊 进度统计
 
-**Total Progress**: 33/100 (33%)
+**Total Progress**: 34/100 (34%)
 `███████░░░░░░░░░░░░░`
 
 ## 📝 题目列表 (按专题)
@@ -162,7 +162,7 @@
 | 45 | [跳跃游戏II](./45.跳跃游戏II.md) | 🟡 Medium | ⬜ |
 | 763 | [划分字母区间](./763.划分字母区间.md) | 🟡 Medium | ⬜ |
 
-### 动态规划 (6/10)
+### 动态规划 (7/10)
 
 | # | 题目 | 难度 | 状态 |
 |---|------|------|------|
@@ -172,7 +172,7 @@
 | 279 | [完全平方数](./279.完全平方数.md) | 🟡 Medium | ✅ |
 | 322 | [零钱兑换](./322.零钱兑换.md) | 🟡 Medium | ✅ |
 | 139 | [单词拆分](./139.单词拆分.md) | 🟡 Medium | ✅ |
-| 300 | [最长递增子序列](./300.最长递增子序列.md) | 🟡 Medium | ⬜ |
+| 300 | [最长递增子序列](./300.最长递增子序列.md) | 🟡 Medium | ✅ |
 | 152 | [乘积最大子数组](./152.乘积最大子数组.md) | 🟡 Medium | ⬜ |
 | 416 | [分割等和子集](./416.分割等和子集.md) | 🟡 Medium | ⬜ |
 | 32 | [最长有效括号](./32.最长有效括号.md) | 🔴 Hard | ⬜ |
