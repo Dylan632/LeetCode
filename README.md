@@ -2,13 +2,13 @@
 
 我的 LeetCode 刷题记录，当前专注于 **LeetCode Hot 100**。
 
-[![Progress](https://img.shields.io/badge/Progress-37%2F100-blue)]()
+[![Progress](https://img.shields.io/badge/Progress-38%2F100-blue)]()
 [![Language](https://img.shields.io/badge/Language-Java-orange)]()
 
 ## 📊 进度统计
 
-**Total Progress**: 37/100 (37%)
-`███████░░░░░░░░░░░░░`
+**Total Progress**: 38/100 (38%)
+`████████░░░░░░░░░░░░`
 
 ## 📝 题目列表 (按专题)
 
@@ -187,11 +187,11 @@
 | 1143 | [最长公共子序列](./1143.最长公共子序列.md) | 🟡 Medium | ⬜ |
 | 72 | [编辑距离](./72.编辑距离.md) | 🟡 Medium | ⬜ |
 
-### 技巧 (0/5)
+### 技巧 (1/5)
 
 | # | 题目 | 难度 | 状态 |
 |---|------|------|------|
-| 136 | [只出现一次的数字](./136.只出现一次的数字.md) | 🟢 Easy | ⬜ |
+| 136 | [只出现一次的数字](./136.只出现一次的数字.md) | 🟢 Easy | ✅ |
 | 169 | [多数元素](./169.多数元素.md) | 🟢 Easy | ⬜ |
 | 75 | [颜色分类](./75.颜色分类.md) | 🟡 Medium | ⬜ |
 | 31 | [下一个排列](./31.下一个排列.md) | 🟡 Medium | ⬜ |
