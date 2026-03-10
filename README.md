@@ -2,12 +2,12 @@
 
 我的 LeetCode 刷题记录，当前专注于 **LeetCode Hot 100**。
 
-[![Progress](https://img.shields.io/badge/Progress-41%2F100-blue)]()
+[![Progress](https://img.shields.io/badge/Progress-42%2F100-blue)]()
 [![Language](https://img.shields.io/badge/Language-Java-orange)]()
 
 ## 📊 进度统计
 
-**Total Progress**: 41/100 (41%)
+**Total Progress**: 42/100 (42%)
 `████████░░░░░░░░░░░░`
 
 ## 📝 题目列表 (按专题)
@@ -44,13 +44,13 @@
 | 239 | [滑动窗口最大值](./239.滑动窗口最大值.md) | 🔴 Hard | ⬜ |
 | 76 | [最小覆盖子串](./76.最小覆盖子串.md) | 🔴 Hard | ⬜ |
 
-### 普通数组 (3/5)
+### 普通数组 (4/5)
 
 | # | 题目 | 难度 | 状态 |
 |---|------|------|------|
 | 53 | [最大子数组和](./53.最大子数组和.md) | 🟡 Medium | ✅ |
 | 56 | [合并区间](./56.合并区间.md) | 🟡 Medium | ✅ |
-| 189 | [轮转数组](./189.轮转数组.md) | 🟡 Medium | ⬜ |
+| 189 | [轮转数组](./189.轮转数组.md) | 🟡 Medium | ✅ |
 | 238 | [除了自身以外数组的乘积](./238.除了自身以外数组的乘积.md) | 🟡 Medium | ✅ |
 | 41 | [缺失的第一个正数](./41.缺失的第一个正数.md) | 🔴 Hard | ⬜ |
 
