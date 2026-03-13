@@ -2,12 +2,12 @@
 
 我的 LeetCode 刷题记录，当前专注于 **LeetCode Hot 100**。
 
-[![Progress](https://img.shields.io/badge/Progress-43%2F100-blue)]()
+[![Progress](https://img.shields.io/badge/Progress-44%2F100-blue)]()
 [![Language](https://img.shields.io/badge/Language-Java-orange)]()
 
 ## 📊 进度统计
 
-**Total Progress**: 43/100 (43%)
+**Total Progress**: 44/100 (44%)
 `█████████░░░░░░░░░░░`
 
 ## 📝 题目列表 (按专题)
@@ -63,7 +63,7 @@
 | 48 | [旋转图像](./48.旋转图像.md) | 🟡 Medium | ⬜ |
 | 240 | [搜索二维矩阵 II](./240.搜索二维矩阵II.md) | 🟡 Medium | ⬜ |
 
-### 链表 (10/14)
+### 链表 (11/14)
 
 | #   | 题目                                   | 难度        | 状态  |
 | --- | ------------------------------------ | --------- | --- |
@@ -77,7 +77,7 @@
 | 19  | [删除链表的倒数第N个节点](./19.删除链表的倒数第N个节点.md) | 🟡 Medium | ✅   |
 | 24  | [两两交换链表中的节点](24.两两交换链表中的节点.md)       | 🟡 Medium | ✅   |
 | 25  | [K个一组翻转链表](./25.K个一组翻转链表.md)         | 🔴 Hard   | ✅   |
-| 138 | [随机链表的复制](./138.随机链表的复制.md)          | 🟡 Medium | ⬜   |
+| 138 | [随机链表的复制](./138.随机链表的复制.md)          | 🟡 Medium | ✅   |
 | 148 | [排序链表](./148.排序链表.md)                | 🟡 Medium | ⬜   |
 | 23  | [合并K个升序链表](./23.合并K个升序链表.md)         | 🔴 Hard   | ⬜   |
 | 146 | [LRU缓存](./146.LRU缓存.md)              | 🟡 Medium | ⬜   |
