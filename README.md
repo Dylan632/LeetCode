@@ -2,12 +2,12 @@
 
 我的 LeetCode 刷题记录，当前专注于 **LeetCode Hot 100**。
 
-[![Progress](https://img.shields.io/badge/Progress-49%2F100-blue)]()
+[![Progress](https://img.shields.io/badge/Progress-50%2F100-blue)]()
 [![Language](https://img.shields.io/badge/Language-Java-orange)]()
 
 ## 📊 进度统计
 
-**Total Progress**: 49/100 (49%)
+**Total Progress**: 50/100 (50%)
 `██████████░░░░░░░░░░`
 
 ## 📝 题目列表 (按专题)
@@ -29,12 +29,12 @@
 | 15 | [三数之和](./15.三数之和.md) | 🟡 Medium | ✅ |
 | 42 | [接雨水](42.接雨水.md) | 🔴 Hard | ✅ |
 
-### 滑动窗口 (1/2)
+### 滑动窗口 (2/2)
 
 | #   | 题目                                      | 难度        | 状态  |
 | --- | --------------------------------------- | --------- | --- |
 | 3   | [无重复字符的最长子串](./3.无重复字符的最长子串.md)         | 🟡 Medium | ✅   |
-| 438 | [找到字符串中所有字母异位词](./438.找到字符串中所有字母异位词.md) | 🟡 Medium | ⬜   |
+| 438 | [找到字符串中所有字母异位词](./438.找到字符串中所有字母异位词.md) | 🟡 Medium | ✅   |
 
 ### 子串 (0/3)
 
