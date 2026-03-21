@@ -2,13 +2,13 @@
 
 我的 LeetCode 刷题记录，当前专注于 **LeetCode Hot 100**。
 
-[![Progress](https://img.shields.io/badge/Progress-52%2F100-blue)]()
+[![Progress](https://img.shields.io/badge/Progress-53%2F100-blue)]()
 [![Language](https://img.shields.io/badge/Language-Java-orange)]()
 
 ## 📊 进度统计
 
-**Total Progress**: 52/100 (52%)
-`██████████░░░░░░░░░░`
+**Total Progress**: 53/100 (53%)
+`███████████░░░░░░░░░`
 
 ## 📝 题目列表 (按专题)
 
@@ -36,13 +36,13 @@
 | 3   | [无重复字符的最长子串](./3.无重复字符的最长子串.md)         | 🟡 Medium | ✅   |
 | 438 | [找到字符串中所有字母异位词](./438.找到字符串中所有字母异位词.md) | 🟡 Medium | ✅   |
 
-### 子串 (2/3)
+### 子串 (3/3)
 
 | # | 题目 | 难度 | 状态 |
 |---|------|------|------|
 | 560 | [和为 K 的子数组](./560.和为K的子数组.md) | 🟡 Medium | ✅ |
 | 239 | [滑动窗口最大值](./239.滑动窗口最大值.md) | 🔴 Hard | ✅ |
-| 76 | [最小覆盖子串](./76.最小覆盖子串.md) | 🔴 Hard | ⬜ |
+| 76 | [最小覆盖子串](./76.最小覆盖子串.md) | 🔴 Hard | ✅ |
 
 ### 普通数组 (5/5)
 
