@@ -2,12 +2,12 @@
 
 我的 LeetCode 刷题记录，当前专注于 **LeetCode Hot 100**。
 
-[![Progress](https://img.shields.io/badge/Progress-56%2F100-blue)]()
+[![Progress](https://img.shields.io/badge/Progress-57%2F100-blue)]()
 [![Language](https://img.shields.io/badge/Language-Java-orange)]()
 
 ## 📊 进度统计
 
-**Total Progress**: 56/100 (56%)
+**Total Progress**: 57/100 (57%)
 `███████████░░░░░░░░░`
 
 ## 📝 题目列表 (按专题)
@@ -177,13 +177,13 @@
 | 416 | [分割等和子集](./416.分割等和子集.md) | 🟡 Medium | ✅ |
 | 32 | [最长有效括号](./32.最长有效括号.md) | 🔴 Hard | ✅ |
 
-### 多维动态规划 (0/5)
+### 多维动态规划 (1/5)
 
 | # | 题目 | 难度 | 状态 |
 |---|------|------|------|
 | 62 | [不同路径](./62.不同路径.md) | 🟡 Medium | ⬜ |
 | 64 | [最小路径和](./64.最小路径和.md) | 🟡 Medium | ⬜ |
-| 5 | [最长回文子串](./5.最长回文子串.md) | 🟡 Medium | ⬜ |
+| 5 | [最长回文子串](./5.最长回文子串.md) | 🟡 Medium | ✅ |
 | 1143 | [最长公共子序列](./1143.最长公共子序列.md) | 🟡 Medium | ⬜ |
 | 72 | [编辑距离](./72.编辑距离.md) | 🟡 Medium | ⬜ |
 
