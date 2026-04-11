@@ -2,12 +2,12 @@
 
 我的 LeetCode 刷题记录，当前专注于 **LeetCode Hot 100**。
 
-[![Progress](https://img.shields.io/badge/Progress-71%2F100-blue)]()
+[![Progress](https://img.shields.io/badge/Progress-72%2F100-blue)]()
 [![Language](https://img.shields.io/badge/Language-Java-orange)]()
 
 ## 📊 进度统计
 
-**Total Progress**: 71/100 (71%)
+**Total Progress**: 72/100 (72%)
 `██████████████░░░░░░`
 
 ## 📝 题目列表 (按专题)
@@ -54,11 +54,11 @@
 | 238 | [除了自身以外数组的乘积](./238.除了自身以外数组的乘积.md) | 🟡 Medium | ✅   |
 | 41  | [缺失的第一个正数](./41.缺失的第一个正数.md)        | 🔴 Hard   | ✅   |
 
-### 矩阵 (1/4)
+### 矩阵 (2/4)
 
 | # | 题目 | 难度 | 状态 |
 |---|------|------|------|
-| 73 | [矩阵置零](./73.矩阵置零.md) | 🟡 Medium | ⬜ |
+| 73 | [矩阵置零](./73.矩阵置零.md) | 🟡 Medium | ✅ |
 | 54 | [螺旋矩阵](./54.螺旋矩阵.md) | 🟡 Medium | ✅ |
 | 48 | [旋转图像](./48.旋转图像.md) | 🟡 Medium | ⬜ |
 | 240 | [搜索二维矩阵 II](./240.搜索二维矩阵II.md) | 🟡 Medium | ⬜ |
