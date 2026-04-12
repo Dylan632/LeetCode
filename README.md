@@ -2,12 +2,12 @@
 
 我的 LeetCode 刷题记录，当前专注于 **LeetCode Hot 100**。
 
-[![Progress](https://img.shields.io/badge/Progress-76%2F100-blue)]()
+[![Progress](https://img.shields.io/badge/Progress-77%2F100-blue)]()
 [![Language](https://img.shields.io/badge/Language-Java-orange)]()
 
 ## 📊 进度统计
 
-**Total Progress**: 76/100 (76%)
+**Total Progress**: 77/100 (77%)
 `███████████████░░░░░`
 
 ## 📝 题目列表 (按专题)
@@ -102,14 +102,14 @@
 | 236 | [二叉树的最近公共祖先](./236.二叉树的最近公共祖先.md)           | 🟡 Medium | ✅   |
 | 124 | [二叉树中的最大路径和](./124.二叉树中的最大路径和.md)           | 🔴 Hard   | ✅   |
 
-### 图论 (3/4)
+### 图论 (4/4)
 
 | #   | 题目                                  | 难度        | 状态  |
 | --- | ----------------------------------- | --------- | --- |
 | 200 | [岛屿数量](./200.岛屿数量.md)               | 🟡 Medium | ✅   |
 | 994 | [腐烂的橘子](./994.腐烂的橘子.md)             | 🟡 Medium | ✅   |
 | 207 | [课程表](./207.课程表.md)                 | 🟡 Medium | ✅   |
-| 208 | [实现Trie(前缀树)](./208.实现Trie(前缀树).md) | 🟡 Medium | ⬜   |
+| 208 | [实现Trie(前缀树)](./208.实现Trie(前缀树).md) | 🟡 Medium | ✅   |
 
 ### 回溯 (1/8)
 
