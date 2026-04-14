@@ -2,12 +2,12 @@
 
 我的 LeetCode 刷题记录，当前专注于 **LeetCode Hot 100**。
 
-[![Progress](https://img.shields.io/badge/Progress-84%2F100-blue)]()
+[![Progress](https://img.shields.io/badge/Progress-86%2F100-blue)]()
 [![Language](https://img.shields.io/badge/Language-Java-orange)]()
 
 ## 📊 进度统计
 
-**Total Progress**: 84/100 (84%)
+**Total Progress**: 86/100 (86%)
 `█████████████████░░░`
 
 ## 📝 题目列表 (按专题)
@@ -145,13 +145,13 @@
 | 739 | [每日温度](./739.每日温度.md) | 🟡 Medium | ⬜ |
 | 84 | [柱状图中最大的矩形](./84.柱状图中最大的矩形.md) | 🔴 Hard | ⬜ |
 
-### 堆 (1/3)
+### 堆 (3/3)
 
 | #   | 题目                                  | 难度        | 状态  |
 | --- | ----------------------------------- | --------- | --- |
 | 215 | [数组中的第K个最大元素](./215.数组中的第K个最大元素.md) | 🟡 Medium | ✅   |
-| 347 | [前K个高频元素](./347.前K个高频元素.md)         | 🟡 Medium | ⬜   |
-| 295 | [数据流的中位数](./295.数据流的中位数.md)         | 🔴 Hard   | ⬜   |
+| 347 | [前K个高频元素](./347.前K个高频元素.md)         | 🟡 Medium | ✅   |
+| 295 | [数据流的中位数](./295.数据流的中位数.md)         | 🔴 Hard   | ✅   |
 
 ### 贪心算法 (1/4)
 
