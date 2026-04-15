@@ -119,7 +119,7 @@ def update_readme(completed: set):
 
 
 def git_sync():
-    """执行 git add, commit, push"""
+    """执行 git add, commit, pull --rebase, push"""
     os.chdir(SCRIPT_DIR)
 
     # Stage all changes
@@ -139,6 +139,13 @@ def git_sync():
         ["git", "commit", "-m", "sync: 更新刷题进度"],
         check=True
     )
+
+    # Pull with rebase to integrate remote changes
+    try:
+        subprocess.run(["git", "pull", "--rebase"], check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"⚠️ 拉取远程更改失败，请手动解决冲突: {e}")
+        return False
 
     # Push
     subprocess.run(["git", "push"], check=True)
